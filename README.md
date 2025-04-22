@@ -9,6 +9,21 @@ In this project, I want to explore this UART port some more and develop:
 - the hardware interface to plug it to any recent computer
 - the software interface to make interaction with the Minitel smoother.
 
+
+## Cheat-sheet: Minitel shortcuts
+
+### Commands for Minitel 2 (Philips)
+
+| Command    | Action |
+| :-------- | ------- |
+| `Fnct` + `T`, then `V` | Switch to Video mode |
+
+### Commands for Minitel 2 (Philips)
+
+| Command    | Action |
+| :-------- | ------- |
+| `Ctrl` + `Esc`, then `T`, then `A` | Console mode, American charset |
+
 ## TODO
 - [ ] Upload the current schematic
 - [ ] Upload the documentation
