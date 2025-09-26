@@ -9,6 +9,9 @@ In this project, I want to explore this UART port some more and develop:
 - the hardware interface to plug it to any recent computer
 - the software interface to make interaction with the Minitel smoother.
 
+## Misc
+PCB design was made on KiCad 9.0.4
+
 
 ## Cheat-sheet: Minitel shortcuts
 
